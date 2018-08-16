@@ -71,3 +71,4 @@ Thai's joke API can allow user to explore, add, delete, like or dislike Thai's j
 
 3. If you have a task to convert existing back-end API which follow to REST API pattern to GraphQL. Which approach you will make?
 
+Joke copy at like:https://github.com/15Dkatz/jokes-api-ruby/blob/master/data/jokes.json
